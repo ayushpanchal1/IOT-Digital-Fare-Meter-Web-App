@@ -1,9 +1,11 @@
-# Getting Started with Create React App
+# Web Application for Digital Fare Meter (IOT)
+
+A simple Web App for tracking trips and their respective fares sent from a IOT device "digital fare meter" that calculates trip distance using Infrared sensors and supports cashless payments usingg BHIM UPI QR codes.
 
 ![image](https://github.com/ayushpanchal1/farewebapp/assets/97223612/154159bf-657d-48ab-bcb8-60eb85071e39)
 ![image](https://github.com/ayushpanchal1/farewebapp/assets/97223612/813f3c54-ef2a-45b3-b1d6-2424b626a040)
 
-
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
