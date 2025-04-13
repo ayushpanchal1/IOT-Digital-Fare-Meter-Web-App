@@ -8,7 +8,7 @@ const Fare = () => {
   const fetchTrips2 = async () => {
     try {
       // Replace these API endpoints with your actual endpoints
-      const fareResponse = await fetch('https://api.thingspeak.com/channels/2324730/feeds.json');
+      const fareResponse = await fetch('INSERT YOUR THINGSPEAK API ENDPOINT');
 
       const fareData = await fareResponse.json();
 
@@ -22,7 +22,7 @@ const Fare = () => {
     const fetchTrips = async () => {
       try {
         // Replace these API endpoints with your actual endpoints
-        const fareResponse = await fetch('https://api.thingspeak.com/channels/2324730/feeds.json');
+        const fareResponse = await fetch('INSERT YOUR THINGSPEAK API ENDPOINT');
 
         const fareData = await fareResponse.json();
 
